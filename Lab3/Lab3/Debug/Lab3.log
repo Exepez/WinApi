@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(107,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(108,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(117,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(118,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(163,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(164,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(175,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(176,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(183,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\2\WINAPI\Lab3\Lab3\Source.cpp(184,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab3.vcxproj -> C:\2\WINAPI\Lab3\Debug\Lab3.exe
